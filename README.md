@@ -10,4 +10,8 @@ Utilizando stubs para substituir algum comportamento do sistema por objetos est�
 
 ## Trabalhando com Spies
 
-utilizado spies para monitorar o comportamentos de funções. Muito importante para lógicas recusivas e lógicas complexas de parada.
+Utilizado spies para monitorar o comportamentos de funções. Muito importante para lógicas recusivas e lógicas complexas de parada.
+
+## Trabalhando com Testes 2e2 e Coverage
+
+Utilizando Mocha e Supertest para criar testes E2E e Stambu (nyc) para fazer o coverage.
