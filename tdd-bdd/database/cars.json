@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8c08cdcd-f381-412e-b296-212b701a1f5d",
+    "name": "Roadster",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "7ffa649a-d7c3-4850-b77a-4bc0e82b75e4",
+    "name": "Ranchero",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6c0d3fef-bc89-407d-ba26-b885438f0afc",
+    "name": "Altima",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
