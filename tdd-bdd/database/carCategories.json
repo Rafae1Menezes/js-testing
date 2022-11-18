@@ -1,11 +1,12 @@
 [
   {
-    "name": "Sedan",
+    "id": "36e43b12-f99c-4032-8f99-e2a873060961",
+    "name": "Convertible",
     "carIds": [
-      "8c08cdcd-f381-412e-b296-212b701a1f5d",
-      "7ffa649a-d7c3-4850-b77a-4bc0e82b75e4",
-      "6c0d3fef-bc89-407d-ba26-b885438f0afc"
+      "b2a6d7f2-5da7-4007-8661-00ad5538746d",
+      "840e0f18-9f37-4bd3-8367-77837741fedc",
+      "88c59924-6269-4731-99ce-7abcf8a7f5f0"
     ],
-    "price": 88.13
+    "price": 28.81
   }
 ]

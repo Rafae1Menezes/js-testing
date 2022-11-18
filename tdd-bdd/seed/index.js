@@ -9,7 +9,7 @@ const seederBaseFolder = join(__dirname, "../", "database");
 const ITEMS_AMOUNT = 2;
 
 const carCategory = new CarCategory({
-  id: faker.random.uuid,
+  id: faker.random.uuid(),
   name: faker.vehicle.type(),
   carIds: [],
   price: faker.finance.amount(20, 100),
@@ -44,8 +44,4 @@ const write = (filename, data) =>
   await write("cars.json", cars);
   await write("customers.json", customers);
   await write("carCategories.json", [carCategory]);
-
-  console.log(cars);
-  console.log(carCategory);
-  console.log(customers);
 })();

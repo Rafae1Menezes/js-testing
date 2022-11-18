@@ -1,21 +1,21 @@
 [
   {
-    "id": "8c08cdcd-f381-412e-b296-212b701a1f5d",
-    "name": "Roadster",
+    "id": "b2a6d7f2-5da7-4007-8661-00ad5538746d",
+    "name": "Camry",
     "releaseYear": 2022,
     "available": true,
     "gasAvailable": true
   },
   {
-    "id": "7ffa649a-d7c3-4850-b77a-4bc0e82b75e4",
-    "name": "Ranchero",
+    "id": "840e0f18-9f37-4bd3-8367-77837741fedc",
+    "name": "Mustang",
     "releaseYear": 2022,
     "available": true,
     "gasAvailable": true
   },
   {
-    "id": "6c0d3fef-bc89-407d-ba26-b885438f0afc",
-    "name": "Altima",
+    "id": "88c59924-6269-4731-99ce-7abcf8a7f5f0",
+    "name": "Fiesta",
     "releaseYear": 2022,
     "available": true,
     "gasAvailable": true
