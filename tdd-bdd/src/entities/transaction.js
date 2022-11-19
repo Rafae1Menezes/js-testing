@@ -1,8 +1,8 @@
 class Transaction {
-  constructor({ customer, car, aount, dueDate }) {
+  constructor({ customer, car, amount, dueDate }) {
     this.customer = customer;
     this.car = car;
-    this.aount = aount;
+    this.amount = amount;
     this.dueDate = dueDate;
   }
 }
